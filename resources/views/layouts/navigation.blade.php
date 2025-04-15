@@ -1,6 +1,8 @@
 <nav class="flex justify-between px-10 py-4">
     <ul class="flex gap-4">
-        <li><a href={{route('home')}} class="text-3xl font-medium dark:text-white">🛍️Dhani Pawan</a></li>
+        <li><a href={{route('home')}} class="text-3xl font-medium dark:text-white flex gap-2 items-center">
+            <img src="dhani-pawan.jpg" alt="i'm rich mf" class="w-20 rounded-xl">
+            Dhani Pawan</a></li>
     </ul>
 
     <ul class="flex gap-4">

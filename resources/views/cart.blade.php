@@ -112,7 +112,7 @@
                 websiteDomain: "http://localhost:5500",
                 price: {{ $product->price }},
                 businessName: "Dhani Pawan",
-                imageUrl: "",
+                imageUrl: "dhani-pawan.jpg",
                 currency: "NPR",
 
                 // redirection callback url when payment is either success or fail
